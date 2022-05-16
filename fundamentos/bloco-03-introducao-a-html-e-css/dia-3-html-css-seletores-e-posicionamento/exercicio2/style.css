@@ -1,6 +1,6 @@
 .super-mario {
     width: 200px;
-    left: 460px;
+    left: 450px;
     position: absolute;
 
   }
@@ -33,7 +33,4 @@
     position: absolute;
     left: 310px;
     bottom: 40px;
-    z-index: 3;
-    
-
-  }
+    }
